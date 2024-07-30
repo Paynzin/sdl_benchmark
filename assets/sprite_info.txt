@@ -1,0 +1,2 @@
+16x16 each sprite
+64 sprites total
